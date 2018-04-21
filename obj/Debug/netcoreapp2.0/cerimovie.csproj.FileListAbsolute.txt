@@ -1,0 +1,10 @@
+/Users/maria/eka/netcore/cerimovie/bin/Debug/netcoreapp2.0/cerimovie.deps.json
+/Users/maria/eka/netcore/cerimovie/bin/Debug/netcoreapp2.0/cerimovie.runtimeconfig.json
+/Users/maria/eka/netcore/cerimovie/bin/Debug/netcoreapp2.0/cerimovie.runtimeconfig.dev.json
+/Users/maria/eka/netcore/cerimovie/bin/Debug/netcoreapp2.0/cerimovie.dll
+/Users/maria/eka/netcore/cerimovie/bin/Debug/netcoreapp2.0/cerimovie.pdb
+/Users/maria/eka/netcore/cerimovie/obj/Debug/netcoreapp2.0/cerimovie.csproj.CoreCompileInputs.cache
+/Users/maria/eka/netcore/cerimovie/obj/Debug/netcoreapp2.0/cerimovie.AssemblyInfoInputs.cache
+/Users/maria/eka/netcore/cerimovie/obj/Debug/netcoreapp2.0/cerimovie.AssemblyInfo.cs
+/Users/maria/eka/netcore/cerimovie/obj/Debug/netcoreapp2.0/cerimovie.dll
+/Users/maria/eka/netcore/cerimovie/obj/Debug/netcoreapp2.0/cerimovie.pdb
